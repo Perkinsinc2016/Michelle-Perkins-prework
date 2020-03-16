@@ -1,37 +1,38 @@
-body
-  background-color blue
-  text-transform uppercase
-
-
-h5 {
+body {
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+  background: #6cbbc5;
+}
+.header {
+  text-align: left;
   color: white;
 }
-h4 {
-  color: black;
-  text-align: center;
-  font-size: 10px;
-  margin-top: 190;
-  height: 90px;
-  width: 100%;
-} 
- 
-
- h1 {
+.life {
   text-align: center;
   margin-top: -50;
-  color: white;
+  color: black;
   font-size: px;
   height: px;
   width: 100%;
-  line-height: 20px
-} 
-
-h6 {
-  text-align: center;
-  color: white;
-  height: 0px;
-  width: 50%;
-  line-height: 20%;
-  
+  line-height: 500px;
 }
-  
+  .digital {
+    position: relative;
+    bottom: 250px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    line-height: 100px;
+    margin-top: 50%
+    display: flex;
+  }
+
+  h6 {
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom: 250px;
+  }
+
+

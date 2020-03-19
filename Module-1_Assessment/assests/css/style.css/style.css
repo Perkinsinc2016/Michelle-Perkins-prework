@@ -1,0 +1,28 @@
+
+html , body {
+    background-color: white;
+    background-position: top;
+    background-image: url(C:\Users\Perki\Desktop\html_BasicCSS_Assesment\Michelle-Perkins-prework\Module-1_Assessment\assests\images\gravel\gravel.jpg);
+    border: 2px teal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav {
+    font-size: large;
+}
+ h1 {
+     background-color: teal;
+     
+ }
+ 
+ .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #666666;
+        color: white;
+        text-align: center;
+}
+
+
